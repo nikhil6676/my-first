@@ -6,4 +6,7 @@ Welcome to the Bluebricks Technology
 Java
 Servlet
 Hibernate
+Gith Hub
+Python
+
 Thank you.
